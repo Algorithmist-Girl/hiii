@@ -1,2 +1,0 @@
-# mdbook-template
-hiii
